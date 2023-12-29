@@ -1,0 +1,12 @@
+[0m[[0m[31merror[0m] [0m[0mchisel3.package$ChiselException: Analog does not support connectFromBits[0m
+[0m[[0m[31merror[0m] [0m[0m	at ... ()[0m
+[0m[[0m[31merror[0m] [0m[0m	at hello.$anonfun$new$1(test.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m	at chisel3.Data.$anonfun$$colon$eq$1(Data.scala:726)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)[0m
+[0m[[0m[31merror[0m] [0m[0m	at chisel3.experimental.prefix$.apply(prefix.scala:33)[0m
+[0m[[0m[31merror[0m] [0m[0m	at chisel3.Data.$colon$eq(Data.scala:726)[0m
+[0m[[0m[31merror[0m] [0m[0m	at hello.<init>(test.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m	at CPU_Main$.$anonfun$new$1(CPU_Main.scala:21)[0m
+[0m[[0m[31merror[0m] [0m[0m	at ... ()[0m
+[0m[[0m[31merror[0m] [0m[0m	at ... (Stack trace trimmed to user code only. Rerun with --full-stacktrace to see the full stack trace)[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mrun[0m) chisel3.package$ChiselException: Analog does not support connectFromBits[0m
