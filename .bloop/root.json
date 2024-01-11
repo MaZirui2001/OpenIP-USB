@@ -144,7 +144,7 @@
         "platform": {
             "name": "jvm",
             "config": {
-                "home": "/usr/lib/jvm/java-11-openjdk-amd64",
+                "home": "/usr/lib/jvm/java-21-openjdk-amd64",
                 "options": [
                     "-Duser.dir=/home/madrid/Desktop/OpenIP-USB"
                 ]
@@ -153,7 +153,7 @@
                 
             ],
             "runtimeConfig": {
-                "home": "/usr/lib/jvm/java-11-openjdk-amd64",
+                "home": "/usr/lib/jvm/java-21-openjdk-amd64",
                 "options": [
                     "-Duser.dir=/home/madrid/Desktop/OpenIP-USB"
                 ]
