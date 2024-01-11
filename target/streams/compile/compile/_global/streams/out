@@ -1,6 +1,0 @@
-[0m[[0m[31merror[0m] [0m[0m/home/madrid/Desktop/OpenIP-USB/src/main/scala/CPU_Main.scala:21:9: type mismatch;[0m
-[0m[[0m[31merror[0m] [0m[0m found   : test[0m
-[0m[[0m[31merror[0m] [0m[0m required: chisel3.RawModule[0m
-[0m[[0m[31merror[0m] [0m[0m        new test, [0m
-[0m[[0m[31merror[0m] [0m[0m        ^[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m
